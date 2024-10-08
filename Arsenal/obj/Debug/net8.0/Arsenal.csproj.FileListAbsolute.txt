@@ -1,0 +1,16 @@
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.exe
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.deps.json
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.runtimeconfig.json
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.pdb
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.AssemblyInfoInputs.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.AssemblyInfo.cs
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.csproj.CoreCompileInputs.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\refint\Arsenal.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.pdb
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.genruntimeconfig.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\obj\Debug\net8.0\ref\Arsenal.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\bin\Debug\net8.0\global.json
+C:\Users\leo.kindstedt\Desktop\programmering\Arsenal\Arsenal\bin\Debug\net8.0\vapen.json
